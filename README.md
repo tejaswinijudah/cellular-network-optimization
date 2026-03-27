@@ -35,11 +35,31 @@ The model typically achieves a 15–50% reduction in weak coverage areas dependi
 
 The project includes:
 
-* Initial network coverage
-* Optimized network coverage
-* Coverage improvement map
+Initial Coverage: Shows weak signal regions before optimization
+
+Optimized Coverage: Shows improved signal distribution after applying strategies
+
+Improvement Map: Highlights areas where signal strength increased
 <img width="1559" height="949" alt="image" src="https://github.com/user-attachments/assets/a582f452-d87d-48d3-b84c-d61945340457" />
 
+## Real-World Relevance
+
+This project reflects how telecom operators optimize network performance by balancing cost and coverage. It demonstrates decision-making under constraints, similar to real-world network planning.
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/tejaswinijudah/cellular-network-optimization
+
+2. Navigate to the folder:
+   cd cellular-network-optimization
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Run the simulation:
+   python network_optimizer.py
+   
 ## Tech Stack
 
 * Python

@@ -38,6 +38,7 @@ The project includes:
 * Initial network coverage
 * Optimized network coverage
 * Coverage improvement map
+<img width="1559" height="949" alt="image" src="https://github.com/user-attachments/assets/a582f452-d87d-48d3-b84c-d61945340457" />
 
 ## Tech Stack
 
